@@ -6,5 +6,7 @@ Full stack blog with database created using:
 - JavaScript
 - NodeJS
 - Express
+- EJS
 - MongoDB
 - Mongoose
+
